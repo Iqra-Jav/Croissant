@@ -1,3 +1,16 @@
 body {
   background-color: rgb(247, 240, 181);
 }
+
+a {
+  margin: 10px;
+}
+
+img {
+  width: 100%;
+  margin: 20px;
+}
+
+.center-align {
+  text-align: center;
+}
